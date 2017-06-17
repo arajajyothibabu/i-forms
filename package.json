@@ -1,0 +1,29 @@
+{
+  "name": "i-forms",
+  "version": "0.9.5",
+  "description": "Intelligent Forms to detect invalid inputs",
+  "main": "src/i-forms.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arajajyothibabu/i-forms.git"
+  },
+  "keywords": [
+    "intelligent",
+    "forms",
+    "invalid",
+    "inputs",
+    "fraudelent",
+    "tests",
+    "data",
+    "validation"
+  ],
+  "author": "Jyothi Babu Araja <arajajyothibabu@gmail.com> (https://arajajyothibabu.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arajajyothibabu/i-forms/issues"
+  },
+  "homepage": "https://github.com/arajajyothibabu/i-forms#readme"
+}
